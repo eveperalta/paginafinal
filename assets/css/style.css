@@ -14,7 +14,13 @@ This css file will over write bootstarp css
 ----------------------------------------------------------------------
 ========================================================================
 */
+.pic{
+  background-image: url("../images/slider/slide-4.jpg");
+  height: 680px;
+  background-size: cover;
+  background-repeat: no-repeat;
 
+}
 /*
 ========================================================================
 Index
